@@ -1,0 +1,20 @@
+0&REPULSIVE&Arousing intense distaste or disgust.
+1&BITCOIN&A type of digital currency in which encryption techniques are used to regulate the generation of units.
+2&COLLEAGUE&A person with whom one works in a profession or business.
+3&MNEMONIC&Designed to aid the memory, related to the power of memory.
+4&PNEUMONIA&Lung inflammation caused by bacterial or viral infection.
+5&DIZZYING&Feel unsteady, confused or amazed.
+6&GRAFFITI&Writing or drawings scribbled, scratched, or sprayed illicitly on a wall or other surface in a public place.
+7&VERSATILE&Able to adapt or be adapted to many different functions or activities.
+8&BASKETBALL&A game played between two teams of five players in which goals are scored by throwing a ball through a netted hoop fixed at each end of the court.
+9&HOPSCOTCH&Travel from place to place.
+:&INDELIBLE&Something which cannot be removed or washed off.
+;&LUNATIC&A person who behaves in a stupid way.
+<&IMPAIRMENT&A state of having a physical or mental condition in which a part of body doesn't work
+=&FIDDLE&To change the details or facts of something.
+>&FIELDWORK&Practical research work done outside of college or school.
+?&DECOMPOSE&To slowly be destroyed by natural chemical processes.
+@&JAUNDICE&A medical condition which which skin and eyes become yellow.
+A&PLAUSIBLE&Reasonable
+B&KINDERGARTEN&A school for very young children.
+C&INTRODUCTORY&Happening at the beginning in order to give a general idea.

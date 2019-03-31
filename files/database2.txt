@@ -1,0 +1,20 @@
+0&DIVERSITY&The state of being diverse.
+1&ABRUPTLY&Suddenly and unexpectedly or in a rude or curt manner.
+2&BOOKWORM&A person who enjoys reading.
+3&INSTALMENT&A sum of money due as equal payments for something, spread over an agreed period of time.
+4&TEMPTATION&The desire to do something, especially something wrong or unwise.
+5&NIGHTMARE&A frightening or unpleasant dream.
+6&VOLCANO&A mountain or hill, typically conical, having a crater or vent through which lava erupts.
+7&FLAMINGO&A tall wading bird with mainly pink or scarlet plumage and long legs and neck.
+8&QUICKSAND&Loose wet sand that yields easily to pressure and sucks in anything resting on or falling into it.
+9&GOOSEBUMPS&Involuntary reaction of skin in cold weather.
+:&INDIVISIBLE&Something which cannot be divided or split into smaller pieces.
+;&NEGOTIATION&Discussions at which people try to decide or agree something.
+<&REFUGEE&A person who has been forced to leave his country for political or religious reasons.
+=&IMAGINATIVE&Having or showing imagination.
+>&IMMORTAL&Living or lasting forever.
+?&IDOLIZE&To love or admire somebody very much.
+@&IGNORE&Pay no attention to something or somebody.
+A&PERSUADE&To make someone do something by giving him good reasons
+B&INVALIDATE&To show that an idea or arguement is wrong.
+C&REMAINDER&Something which is left after it has been dealt with.

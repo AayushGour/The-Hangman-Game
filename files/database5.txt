@@ -1,0 +1,20 @@
+0&PNEUMATIC&Containing or operated by air or gas under pressure.
+1&DIVISIVE&Tending to cause disagreement or hostility between people.
+2&FISTICUFFS&Fighting with the fists.
+3&SKETCHY&Dishonest or disreputable, a shady person.
+4&HELLION&A rowdy or mischievous person, especially a child.
+5&GARGANTUAN&Extremely large, massive, huge, colossal.
+6&PRIMORDIAL&Existing at or from the beginning of time; primeval.
+7&OVERZEALOUS&Too zealous in one's attitude or behaviou, excessively enthusiastic
+8&SABOTAGE&Deliberately destroy, damage or obstruct.
+9&CATASTROPHE&An event causing great and usually sudden damage or suffering or a disaster.
+:&PACEMAKER&A person in a race who sets the speed that others must follow.
+;&ERYTHROCYTE&A red blood cell.
+<&INDICTMENT&A written paper that officially accuses someone of a crime.
+=&PICCOLO&A musical instrument like a small Flute that plays high notes.
+>&IMMACULATE&Perfectly clean and tidy.
+?&EXTREMINATE&To kill a large group of people or animals.
+@&PLUTONIUM&A dangerous radioactive substance used as fuel in nuclear power stations.
+A&OVERSHADOW&To cause somebody to seem less important or successful.
+B&ACROPHOBIA&Extreme fear of heights.
+C&OSTEOPOROSIS&A medical condition in which bones become weak.
